@@ -1,0 +1,3 @@
+Hi there,
+This file is created just to test the git repo behaviour.
+
